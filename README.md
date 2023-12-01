@@ -1,11 +1,19 @@
-![45622E30-C611-4525-B3EE-921F9665B31A_1_105_c](https://user-images.githubusercontent.com/94236079/166186887-9cb41fc3-3757-4cd5-8f6a-eb8395f27048.jpeg)
 
-<h1 align="center">Hi 👋, I'm MALLELA AKHIL</h1>
-<h3 align="center">👋Hello, my name is MALLELA AKHIL and I am a passinoate Cyber Security and Ehticalhacking ,and Fullstack Developer and APPs .I am an 👨‍🎓undergraduate studying B.Tech in Electronics and Communications Engineering. Even though I am a ECE student, My passion for 👨‍💻 computers have led me to expand my knowledge in computer science because I find it fascinating. From a young age, I was totally attracted by computer games which later develop into an interest for programming. I spend lots of time on the computer researching new developments in the IT industry and reading articles related to programming. I am very enthusiastic and 😎confident with regards to anything involving computer systems, and I feel that this will play a major part in helping me expand my knowledge in this field, gaining exposure to new areas of computer science that I have not yet studied. I have been coding for a while, and I learned and accomplished a lot. Apart from the academics 📚, I also aim to become a more independent person and make new friends with similar interests. I am hard working, responsible, ambitious, enthusiastic, independent and friendly. I enjoy helping people and to share my opinions and ideas with other students.</h3>
+
+<h2 align="center">👋Hello World, I am  MALLELA AKHIL, 
+I'm a Full Stack Python Developer👨🏻‍💻</h2>
+
+<h3> 
+  
+- 👨‍💻 I’m currently learning API Development
+
+- 💬 Ask me about Java, Python, Linux, Web Development and OpenSource
+
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilmallela&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmallela" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akhilmallela999" target="blank"><img src="https://img.shields.io/twitter/follow/akhilmallela999?logo=twitter&style=for-the-badge" alt="akhilmallela999" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akhilmallela77" target="blank"><img src="https://img.shields.io/twitter/follow/akhilmallela77?logo=twitter&style=for-the-badge" alt="akhilmallela77" /></a> </p>
 
 - 🌱 I’m currently learning **AI with Blockchain Technology**
 
